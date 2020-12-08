@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://examplesite.com/posts/announcing-rizin/</loc>
+    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/posts/faq/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/posts/</loc>
+    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/</loc>
+    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/rizin/</loc>
+    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/</loc>
+    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/code-of-conduct/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/teams/community/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/teams/core/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/teams/cutter-core/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/teams/distributions-and-packaging/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/teams/documentation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/features/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/teams/infrastructure/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/organization/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/teams/package-manager-and-plugins/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/teams/security/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/teams/</loc>
+  </url>
+  
+</urlset>
