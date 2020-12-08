@@ -8,8 +8,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
-
 minify:
   disableXML: true
   minifyOutput: true
@@ -28,12 +26,13 @@ menu:
         
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: 'ExampleSites description'
-  author: Me
+  title: Rizin
+  description: 'Free and Open Source Reverse Engineering Platform'
+  author: Rizin
   # author: ["Me", "You"] # multiple authors
 
-  images: "<link or path of image for opengraph, twitter-cards>"
+  images: 
+    - /images/rizin_preview.png
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -44,7 +43,7 @@ params:
   disableSpecial1stPost : false
 
   assets:
-    favicon: '<path / external url>'
+    favicon: '/favicon-32x32.png'
 
   label:
     text: "Rizin"
@@ -54,7 +53,7 @@ params:
   profileMode:
     enabled: False # needs to be explicitly set
     title: Rizin
-    subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+    subtitle: "Free and Open Source Reverse Engineering Platform"
     imageUrl: '/images/rizin.svg'
     # imageTitle: my image
     buttons:
@@ -66,17 +65,10 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: Free and Open Source Reverse Engineering Platform
 
   socialIcons:
     - name: twitter
-      url: 'https://twitter.com/'
-    - name: stackoverflow
-      url: 'https://stackoverflow.com'
+      url: 'https://twitter.com/rizinorg'
     - name: github
-      url: 'https://github.com/'
-
-
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
+      url: 'https://github.com/rizinorg'
