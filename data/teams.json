@@ -51,14 +51,14 @@
       ]
     },
     "distributions-and-packaging": {
-      "Name": "Distributions and Packaging",
+      "Name": "Distributions",
       "Description": "Packaging and assist the package maintainers of Rizin and Cutter for different Linux distributions.",
       "Members": [
         "Riccardo Schirone"
       ]
     },
     "package-manager-and-plugins": {
-      "Name": "Package Manager and Plugins",
+      "Name": "Package Manager",
       "Description": "Responsible for the development of Rizin Package Manager and the coordination between plugin developers and the development of the plugins toolset.",
       "Members": [
         "Antide Petit",

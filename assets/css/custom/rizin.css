@@ -138,6 +138,7 @@
 .post-header {
   margin: 0;
   padding-top: 50px;
+  margin-bottom: 20px;
 }
 
 .hero-section {
@@ -351,7 +352,9 @@
   .preview-section__feature__visual {
     padding: 30px;
   }
+}
 
+@media (min-width: 1050px) {
   .team-item mark,
   .team-title mark {
     display: inline-block;
