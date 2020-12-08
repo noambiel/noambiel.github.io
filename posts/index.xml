@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Rizin</title>
-    <link>https://examplesite.com/posts/</link>
+    <link>https://noambiel.github.io/posts/</link>
     <description>Recent content in Posts on Rizin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://noambiel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Announcing Rizin! 🎉</title>
-      <link>https://examplesite.com/posts/announcing-rizin/</link>
+      <link>https://noambiel.github.io/posts/announcing-rizin/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/announcing-rizin/</guid>
+      <guid>https://noambiel.github.io/posts/announcing-rizin/</guid>
       <description>We are excited to announce Rizin — a free and open-source Reverse Engineering framework, providing a complete binary analysis experience.</description>
     </item>
     
     <item>
       <title>Frequently Asked Questions</title>
-      <link>https://examplesite.com/posts/faq/</link>
+      <link>https://noambiel.github.io/posts/faq/</link>
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/faq/</guid>
+      <guid>https://noambiel.github.io/posts/faq/</guid>
       <description>Who are you? Why did you fork radare2? What will happen to Cutter now? Our answers to your frequently asked questions.</description>
     </item>
     

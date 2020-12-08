@@ -2,78 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on Rizin</title>
-    <link>https://examplesite.com/teams/</link>
+    <link>https://noambiel.github.io/teams/</link>
     <description>Recent content in Teams on Rizin</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://examplesite.com/teams/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://noambiel.github.io/teams/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Community Team</title>
-      <link>https://examplesite.com/teams/community/</link>
+      <link>https://noambiel.github.io/teams/community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/community/</guid>
+      <guid>https://noambiel.github.io/teams/community/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Core Team</title>
-      <link>https://examplesite.com/teams/core/</link>
+      <link>https://noambiel.github.io/teams/core/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/core/</guid>
+      <guid>https://noambiel.github.io/teams/core/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cutter Core Team</title>
-      <link>https://examplesite.com/teams/cutter-core/</link>
+      <link>https://noambiel.github.io/teams/cutter-core/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/cutter-core/</guid>
+      <guid>https://noambiel.github.io/teams/cutter-core/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributions and Packaging Team</title>
-      <link>https://examplesite.com/teams/distributions-and-packaging/</link>
+      <link>https://noambiel.github.io/teams/distributions-and-packaging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/distributions-and-packaging/</guid>
+      <guid>https://noambiel.github.io/teams/distributions-and-packaging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Documentation Team</title>
-      <link>https://examplesite.com/teams/documentation/</link>
+      <link>https://noambiel.github.io/teams/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/documentation/</guid>
+      <guid>https://noambiel.github.io/teams/documentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infrastructure Team</title>
-      <link>https://examplesite.com/teams/infrastructure/</link>
+      <link>https://noambiel.github.io/teams/infrastructure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/infrastructure/</guid>
+      <guid>https://noambiel.github.io/teams/infrastructure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Package Manager and Plugins Team</title>
-      <link>https://examplesite.com/teams/package-manager-and-plugins/</link>
+      <link>https://noambiel.github.io/teams/package-manager-and-plugins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/package-manager-and-plugins/</guid>
+      <guid>https://noambiel.github.io/teams/package-manager-and-plugins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security Team</title>
-      <link>https://examplesite.com/teams/security/</link>
+      <link>https://noambiel.github.io/teams/security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/security/</guid>
+      <guid>https://noambiel.github.io/teams/security/</guid>
       <description></description>
     </item>
     

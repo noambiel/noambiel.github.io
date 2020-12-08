@@ -2,133 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rizin</title>
-    <link>https://examplesite.com/</link>
+    <link>https://noambiel.github.io/</link>
     <description>Recent content on Rizin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://noambiel.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Announcing Rizin! 🎉</title>
-      <link>https://examplesite.com/posts/announcing-rizin/</link>
+      <link>https://noambiel.github.io/posts/announcing-rizin/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/announcing-rizin/</guid>
+      <guid>https://noambiel.github.io/posts/announcing-rizin/</guid>
       <description>We are excited to announce Rizin — a free and open-source Reverse Engineering framework, providing a complete binary analysis experience.</description>
     </item>
     
     <item>
       <title>Frequently Asked Questions</title>
-      <link>https://examplesite.com/posts/faq/</link>
+      <link>https://noambiel.github.io/posts/faq/</link>
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/faq/</guid>
+      <guid>https://noambiel.github.io/posts/faq/</guid>
       <description>Who are you? Why did you fork radare2? What will happen to Cutter now? Our answers to your frequently asked questions.</description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>https://examplesite.com/archives/</link>
+      <link>https://noambiel.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/archives/</guid>
+      <guid>https://noambiel.github.io/archives/</guid>
       <description>archives</description>
     </item>
     
     <item>
       <title>Code Of Conduct</title>
-      <link>https://examplesite.com/code-of-conduct/</link>
+      <link>https://noambiel.github.io/code-of-conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/code-of-conduct/</guid>
+      <guid>https://noambiel.github.io/code-of-conduct/</guid>
       <description>Rizin&amp;rsquo;s Code of Conduct</description>
     </item>
     
     <item>
       <title>Community Team</title>
-      <link>https://examplesite.com/teams/community/</link>
+      <link>https://noambiel.github.io/teams/community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/community/</guid>
+      <guid>https://noambiel.github.io/teams/community/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Core Team</title>
-      <link>https://examplesite.com/teams/core/</link>
+      <link>https://noambiel.github.io/teams/core/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/core/</guid>
+      <guid>https://noambiel.github.io/teams/core/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cutter Core Team</title>
-      <link>https://examplesite.com/teams/cutter-core/</link>
+      <link>https://noambiel.github.io/teams/cutter-core/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/cutter-core/</guid>
+      <guid>https://noambiel.github.io/teams/cutter-core/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributions and Packaging Team</title>
-      <link>https://examplesite.com/teams/distributions-and-packaging/</link>
+      <link>https://noambiel.github.io/teams/distributions-and-packaging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/distributions-and-packaging/</guid>
+      <guid>https://noambiel.github.io/teams/distributions-and-packaging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Documentation Team</title>
-      <link>https://examplesite.com/teams/documentation/</link>
+      <link>https://noambiel.github.io/teams/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/documentation/</guid>
+      <guid>https://noambiel.github.io/teams/documentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature Highlights</title>
-      <link>https://examplesite.com/features/</link>
+      <link>https://noambiel.github.io/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/features/</guid>
+      <guid>https://noambiel.github.io/features/</guid>
       <description>features</description>
     </item>
     
     <item>
       <title>Infrastructure Team</title>
-      <link>https://examplesite.com/teams/infrastructure/</link>
+      <link>https://noambiel.github.io/teams/infrastructure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/infrastructure/</guid>
+      <guid>https://noambiel.github.io/teams/infrastructure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Organization</title>
-      <link>https://examplesite.com/organization/</link>
+      <link>https://noambiel.github.io/organization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/organization/</guid>
+      <guid>https://noambiel.github.io/organization/</guid>
       <description>organization</description>
     </item>
     
     <item>
       <title>Package Manager and Plugins Team</title>
-      <link>https://examplesite.com/teams/package-manager-and-plugins/</link>
+      <link>https://noambiel.github.io/teams/package-manager-and-plugins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/package-manager-and-plugins/</guid>
+      <guid>https://noambiel.github.io/teams/package-manager-and-plugins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security Team</title>
-      <link>https://examplesite.com/teams/security/</link>
+      <link>https://noambiel.github.io/teams/security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/teams/security/</guid>
+      <guid>https://noambiel.github.io/teams/security/</guid>
       <description></description>
     </item>
     
